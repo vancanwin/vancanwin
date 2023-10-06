@@ -1,149 +1,147 @@
-Plate information 
-Plate,Repeat,Barcode,Measured height,Chamber temperature at start,Chamber temperature at end,Humidity at start,Humidity at end,Ambient temperature at start,Ambient temperature at end,Group,Label,ScanX,ScanY,Measinfo,Kinetics,Measurement date,
-1,1,"=""""",14.37,22.28,22.5,43.4,42.8,23.05,22.88,1,Pingping US LUM 384 (cps)(1),0,0,De=USLum Ex=N/A Em=N/A Wdw=N/A (12),0,8/30/2023 2:29:49 PM,
-
-Background information
-Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,
-1,Pingping US LUM 384 (cps),0,8,0.1,00:00:00.000,De=USLum Ex=N/A Em=N/A Wdw=N/A (12),
-
-16680,17600,17560,15800,14840,21840,14160,17920,13400,11600,16040,11680,14280,14360,13000,13080,26200,11560,7280,19160,9120,11040,1560,233440,
-14200,16400,27840,7480,20520,51000,13400,7960,13560,34400,13240,22200,34640,14320,14000,14560,13040,12080,12000,13240,25600,17480,1440,188440,
-15040,24160,45160,14560,15040,40400,14680,15320,16240,12200,12720,15200,12120,13160,16640,14840,13720,16280,14440,11480,11240,12600,1360,210480,
-13600,14600,13520,14400,12280,15200,13640,15200,18360,12240,13120,13000,14680,14040,18200,12800,13600,11760,13000,14600,11520,11520,1560,182960,
-13840,33080,14920,26600,14320,14840,12720,12280,31760,9720,14160,13880,13840,14960,12720,30920,13560,14160,19440,12200,14160,13840,1360,193040,
-14040,14120,9680,8360,24160,32040,16400,14920,15680,9800,13360,16680,13320,12680,12520,15600,13600,12000,13160,11760,11880,11840,1200,180440,
-13680,13000,35680,13600,13400,13040,15200,16560,25880,14720,13160,13920,12680,13840,13120,16360,12440,19240,18040,30000,12840,12320,1320,181000,
-13560,13880,14160,27360,13800,15400,10920,6240,14240,14680,29720,28400,13640,44480,25720,12760,17360,11280,12680,17240,9160,32320,1960,227760,
-80760,18640,13920,18880,12800,12320,13200,14000,12520,16600,14000,12400,15160,12400,15360,25480,13080,12320,14320,13520,16960,12440,1520,206720,
-13040,13800,13680,14120,26280,13480,13480,13960,13480,13760,10680,14120,17840,14120,13680,15400,14200,12080,11160,17520,11680,6840,1520,193320,
-12440,31040,12880,14040,9120,14360,20160,13440,17680,5600,10440,13400,13520,13320,6800,28280,13400,9680,12120,12120,12160,11200,1080,182880,
-23520,14400,23200,21240,11760,14120,22760,15360,31360,12600,13720,17600,13640,13400,12440,14760,13040,13640,12840,29760,11200,9000,1320,178320,
-11960,13160,12560,12240,11840,26680,5960,12920,7880,27760,18000,13600,17480,17160,12480,15880,14400,13440,59560,13920,19920,18040,1920,267760,
-48640,13880,12920,12080,12080,10640,14680,10840,28280,13520,11800,30400,13840,12440,13800,12440,14720,24360,12200,20600,12280,19240,1320,173200,
-12640,13440,13600,13160,31560,12280,22400,12520,12480,12640,13840,12960,18480,12000,12960,23560,12800,31960,8320,13640,25080,12800,1320,172960,
-12320,12600,12880,26840,20760,28600,11240,13600,18840,22320,11040,11280,11560,6840,17040,25800,4240,12440,11400,11400,21800,11040,1240,165680,
-
-
-Basic assay information 
-Assay ID: ,,,,2977
-Assay Started: ,,,,8/30/2023 2:28:17 PM
-Assay Finished: ,,,,8/30/2023 2:30:04 PM
-Assay Exported: ,,,,8/30/2023 2:30:04 PM
-Protocol ID: ,,,,100188
-Protocol Name: ,,,,test 384
-Serial#: ,,,,="1040181"
-
-
-
-Protocol information
-Protocol:
-Protocol name,,,,test 384
-Number of assay repeats,,,,1
-Start assay repeat each,,,,N/A
-Number of plate repeats,,,,1
-Start plate repeat each,,,,N/A
-Is label meas. height used,,,,No
-Height of measurement,,,,6.5 mm
-Is gripper height used,,,,Yes
-Gripper height,,,,0
-Mode of measurement,,,,By Rows  bi-directional
-Rotated plate,,,,No
-Soft move,,,,No
-Protocol notes,,,, 
-
-Plate type:
-Name of the plate type,,,,384 Greiner
-Number of rows,,,,16
-Number of columns,,,,24
-Number of the wells in the plate,,,,384
-Height of the plate,,,,10.12 mm
-
-Coordinates of corners:
-384 Greiner
-12 mm x--------------------------------------------------------- x 115.5 mm
-9 mm                                                               9 mm
-
-12 mm x--------------------------------------------------------- x 115.5 mm
-76.5 mm                                                            76.5 mm
-
-Platemap:
-Plate,,,,1
-Group,,,,1
-
-,01,02,03,04,05,06,07,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,
-A,UNK1  ,UNK17 ,UNK33 ,UNK49 ,UNK65 ,UNK81 ,UNK97 ,UNK113,UNK129,UNK145,UNK161,UNK177,UNK193,UNK209,UNK225,UNK241,UNK257,UNK273,UNK289,UNK305,UNK321,UNK337,UNK353,UNK369
-B,UNK2  ,UNK18 ,UNK34 ,UNK50 ,UNK66 ,UNK82 ,UNK98 ,UNK114,UNK130,UNK146,UNK162,UNK178,UNK194,UNK210,UNK226,UNK242,UNK258,UNK274,UNK290,UNK306,UNK322,UNK338,UNK354,UNK370
-C,UNK3  ,UNK19 ,UNK35 ,UNK51 ,UNK67 ,UNK83 ,UNK99 ,UNK115,UNK131,UNK147,UNK163,UNK179,UNK195,UNK211,UNK227,UNK243,UNK259,UNK275,UNK291,UNK307,UNK323,UNK339,UNK355,UNK371
-D,UNK4  ,UNK20 ,UNK36 ,UNK52 ,UNK68 ,UNK84 ,UNK100,UNK116,UNK132,UNK148,UNK164,UNK180,UNK196,UNK212,UNK228,UNK244,UNK260,UNK276,UNK292,UNK308,UNK324,UNK340,UNK356,UNK372
-E,UNK5  ,UNK21 ,UNK37 ,UNK53 ,UNK69 ,UNK85 ,UNK101,UNK117,UNK133,UNK149,UNK165,UNK181,UNK197,UNK213,UNK229,UNK245,UNK261,UNK277,UNK293,UNK309,UNK325,UNK341,UNK357,UNK373
-F,UNK6  ,UNK22 ,UNK38 ,UNK54 ,UNK70 ,UNK86 ,UNK102,UNK118,UNK134,UNK150,UNK166,UNK182,UNK198,UNK214,UNK230,UNK246,UNK262,UNK278,UNK294,UNK310,UNK326,UNK342,UNK358,UNK374
-G,UNK7  ,UNK23 ,UNK39 ,UNK55 ,UNK71 ,UNK87 ,UNK103,UNK119,UNK135,UNK151,UNK167,UNK183,UNK199,UNK215,UNK231,UNK247,UNK263,UNK279,UNK295,UNK311,UNK327,UNK343,UNK359,UNK375
-H,UNK8  ,UNK24 ,UNK40 ,UNK56 ,UNK72 ,UNK88 ,UNK104,UNK120,UNK136,UNK152,UNK168,UNK184,UNK200,UNK216,UNK232,UNK248,UNK264,UNK280,UNK296,UNK312,UNK328,UNK344,UNK360,UNK376
-I,UNK9  ,UNK25 ,UNK41 ,UNK57 ,UNK73 ,UNK89 ,UNK105,UNK121,UNK137,UNK153,UNK169,UNK185,UNK201,UNK217,UNK233,UNK249,UNK265,UNK281,UNK297,UNK313,UNK329,UNK345,UNK361,UNK377
-J,UNK10 ,UNK26 ,UNK42 ,UNK58 ,UNK74 ,UNK90 ,UNK106,UNK122,UNK138,UNK154,UNK170,UNK186,UNK202,UNK218,UNK234,UNK250,UNK266,UNK282,UNK298,UNK314,UNK330,UNK346,UNK362,UNK378
-K,UNK11 ,UNK27 ,UNK43 ,UNK59 ,UNK75 ,UNK91 ,UNK107,UNK123,UNK139,UNK155,UNK171,UNK187,UNK203,UNK219,UNK235,UNK251,UNK267,UNK283,UNK299,UNK315,UNK331,UNK347,UNK363,UNK379
-L,UNK12 ,UNK28 ,UNK44 ,UNK60 ,UNK76 ,UNK92 ,UNK108,UNK124,UNK140,UNK156,UNK172,UNK188,UNK204,UNK220,UNK236,UNK252,UNK268,UNK284,UNK300,UNK316,UNK332,UNK348,UNK364,UNK380
-M,UNK13 ,UNK29 ,UNK45 ,UNK61 ,UNK77 ,UNK93 ,UNK109,UNK125,UNK141,UNK157,UNK173,UNK189,UNK205,UNK221,UNK237,UNK253,UNK269,UNK285,UNK301,UNK317,UNK333,UNK349,UNK365,UNK381
-N,UNK14 ,UNK30 ,UNK46 ,UNK62 ,UNK78 ,UNK94 ,UNK110,UNK126,UNK142,UNK158,UNK174,UNK190,UNK206,UNK222,UNK238,UNK254,UNK270,UNK286,UNK302,UNK318,UNK334,UNK350,UNK366,UNK382
-O,UNK15 ,UNK31 ,UNK47 ,UNK63 ,UNK79 ,UNK95 ,UNK111,UNK127,UNK143,UNK159,UNK175,UNK191,UNK207,UNK223,UNK239,UNK255,UNK271,UNK287,UNK303,UNK319,UNK335,UNK351,UNK367,UNK383
-P,UNK16 ,UNK32 ,UNK48 ,UNK64 ,UNK80 ,UNK96 ,UNK112,UNK128,UNK144,UNK160,UNK176,UNK192,UNK208,UNK224,UNK240,UNK256,UNK272,UNK288,UNK304,UNK320,UNK336,UNK352,UNK368,UNK384
-
- UNK - Unknown
-
-Calculations:
-No calculations.
-
-Auto export parameters:
-Export format,,,,Plate
-Include basic assay information,,,,Yes
-Place assay information at,,,,End of file
-Include basic plate information,,,,Yes
-Place plate information at,,,,Beginning of plate
-Include protocol information,,,,Yes
-Protocol info level,,,,Large
-Include error and warning information,,,,Yes
-Include background information,,,,Yes
-Add plate number to the file name,,,,Yes
-Each plate to separate file,,,,No
-Field separator to use,,,,System
-File name format,,,,C:\Users\HTSF_User\Desktop\13.csv
-
-Operations:
-Plate 1
-  Group 1
-    Measurement
-      Label,,,,Pingping US LUM 384 (cps)(1)
-
-Labels:
-Pingping US LUM 384 (cps),,,,7000023
-Measurement height,,,,0 mm
-Measurement time,,,,0.1 s
-CT,,,,0
-Aperture,,,,384 Plate US Luminescence aperture
-Last edited,,,,5/17/2023 12:23:27 PM
-Last edited by,,,,EnVision
-Factory preset,,,,No
-
-Aperture:
-384 Plate US Luminescence aperture,,,,9
-Height,,,,4.2 mm
-Diameter,,,,3.7 mm
-Description,,,,Can also be used in 96 plate
-Last edited,,,,1/28/2020 2:54:35 PM
-Last edited by,,,,Installation
-Factory preset,,,,Yes
-
-Instrument:
-Serial number,,,,1040181
-Nickname,,,,EnVision
-
-Normalization:
-
-
-
-Assay notifications:
-WARNING: Warning while loading plate. Stacker out of plates. Plate 1 Plate Repeat 1 Well P01
-
-
-
-Exported with EnVision Workstation version 1.14.3049.528
+,,,,,,,,,,,,,,,,Plate,information,Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19,Unnamed: 20,Unnamed: 21,Unnamed: 22,Unnamed: 23,Unnamed: 24,Unnamed: 25,Unnamed: 26
+Plate,Repeat,Barcode,Measured,height,Chamber,temperature,at,start,Chamber,temperature,at,end,Humidity,at,start,Humidity,at,end,Ambient,temperature,at,start,Ambient,temperature,at,end,Group,Label,ScanX,ScanY,Measinfo,Kinetics,Measurement,date,,,,,,,,
+1,1,,14.37,22.28,22.5,43.4,42.8,23.05,22.88,1,Pingping,US,LUM,384,(cps)(1),0,0,De=USLum,Ex=N/A,Em=N/A,Wdw=N/A,(12),0,8/30/2023,2,29,49,PM,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Background,information,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Plate,Label,Result,Signal,Flashes/Time,Meastime,MeasInfo,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1,Pingping,US,LUM,384,(cps),0,8,0.1,00,00,00.000,De=USLum,Ex=N/A,Em=N/A,Wdw=N/A,(12),,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+A,16680,17600,17560,15800,14840,21840,14160,17920,13400,11600,16040,11680,14280,14360,13000,13080,26200,11560,7280,19160,9120,11040,1560,233440,,,,,,,,,,,,,,,,,,
+B,14200,16400,27840,7480,20520,51000,13400,7960,13560,34400,13240,22200,34640,14320,14000,14560,13040,12080,12000,13240,25600,17480,1440,188440,,,,,,,,,,,,,,,,,,
+C,15040,24160,45160,14560,15040,40400,14680,15320,16240,12200,12720,15200,12120,13160,16640,14840,13720,16280,14440,11480,11240,12600,1360,210480,,,,,,,,,,,,,,,,,,
+D,13600,14600,13520,14400,12280,15200,13640,15200,18360,12240,13120,13000,14680,14040,18200,12800,13600,11760,13000,14600,11520,11520,1560,182960,,,,,,,,,,,,,,,,,,
+E,13840,33080,14920,26600,14320,14840,12720,12280,31760,9720,14160,13880,13840,14960,12720,30920,13560,14160,19440,12200,14160,13840,1360,193040,,,,,,,,,,,,,,,,,,
+F,14040,14120,9680,8360,24160,32040,16400,14920,15680,9800,13360,16680,13320,12680,12520,15600,13600,12000,13160,11760,11880,11840,1200,180440,,,,,,,,,,,,,,,,,,
+G,13680,13000,35680,13600,13400,13040,15200,16560,25880,14720,13160,13920,12680,13840,13120,16360,12440,19240,18040,30000,12840,12320,1320,181000,,,,,,,,,,,,,,,,,,
+H,13560,13880,14160,27360,13800,15400,10920,6240,14240,14680,29720,28400,13640,44480,25720,12760,17360,11280,12680,17240,9160,32320,1960,227760,,,,,,,,,,,,,,,,,,
+I,80760,18640,13920,18880,12800,12320,13200,14000,12520,16600,14000,12400,15160,12400,15360,25480,13080,12320,14320,13520,16960,12440,1520,206720,,,,,,,,,,,,,,,,,,
+J,13040,13800,13680,14120,26280,13480,13480,13960,13480,13760,10680,14120,17840,14120,13680,15400,14200,12080,11160,17520,11680,6840,1520,193320,,,,,,,,,,,,,,,,,,
+K,12440,31040,12880,14040,9120,14360,20160,13440,17680,5600,10440,13400,13520,13320,6800,28280,13400,9680,12120,12120,12160,11200,1080,182880,,,,,,,,,,,,,,,,,,
+L,23520,14400,23200,21240,11760,14120,22760,15360,31360,12600,13720,17600,13640,13400,12440,14760,13040,13640,12840,29760,11200,9000,1320,178320,,,,,,,,,,,,,,,,,,
+M,11960,13160,12560,12240,11840,26680,5960,12920,7880,27760,18000,13600,17480,17160,12480,15880,14400,13440,59560,13920,19920,18040,1920,267760,,,,,,,,,,,,,,,,,,
+N,48640,13880,12920,12080,12080,10640,14680,10840,28280,13520,11800,30400,13840,12440,13800,12440,14720,24360,12200,20600,12280,19240,1320,173200,,,,,,,,,,,,,,,,,,
+O,12640,13440,13600,13160,31560,12280,22400,12520,12480,12640,13840,12960,18480,12000,12960,23560,12800,31960,8320,13640,25080,12800,1320,172960,,,,,,,,,,,,,,,,,,
+P,12320,12600,12880,26840,20760,28600,11240,13600,18840,22320,11040,11280,11560,6840,17040,25800,4240,12440,11400,11400,21800,11040,1240,165680,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Basic,assay,information,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,ID,,,,,,2977,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,Started,,,,,,8/30/2023,2,28,17,PM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,Finished,,,,,,8/30/2023,2,30,04,PM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,Exported,,,,,,8/30/2023,2,30,04,PM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Protocol,ID,,,,,,100188,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Protocol,Name,,,,,,test,384,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Serial#,,,,,,1040181,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Protocol,information,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Protocol,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Protocol,name,,,,test,384,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number,of,assay,repeats,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Start,assay,repeat,each,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number,of,plate,repeats,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Start,plate,repeat,each,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Is,label,meas.,height,used,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Height,of,measurement,,,,6.5,mm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Is,gripper,height,used,,,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Gripper,height,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Mode,of,measurement,,,,By,Rows,,bi-directional,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Rotated,plate,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Soft,move,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Protocol,notes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Plate,type,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Name,of,the,plate,type,,,,384,Greiner,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number,of,rows,,,,16,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number,of,columns,,,,24,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Number,of,the,wells,in,the,plate,,,,384,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Height,of,the,plate,,,,10.12,mm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Coordinates,of,corners,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+384,Greiner,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,mm,x---------------------------------------------------------,x,115.5,mm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+12,mm,x---------------------------------------------------------,x,115.5,mm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Platemap,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Plate,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Group,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,,,,,,,,,,,,,,,,,,
+A,UNK1,,,UNK17,,UNK33,,UNK49,,UNK65,,UNK81,,UNK97,,UNK113,UNK129,UNK145,UNK161,UNK177,UNK193,UNK209,UNK225,UNK241,UNK257,UNK273,UNK289,UNK305,UNK321,UNK337,UNK353,UNK369,,,,,,,,,,
+B,UNK2,,,UNK18,,UNK34,,UNK50,,UNK66,,UNK82,,UNK98,,UNK114,UNK130,UNK146,UNK162,UNK178,UNK194,UNK210,UNK226,UNK242,UNK258,UNK274,UNK290,UNK306,UNK322,UNK338,UNK354,UNK370,,,,,,,,,,
+C,UNK3,,,UNK19,,UNK35,,UNK51,,UNK67,,UNK83,,UNK99,,UNK115,UNK131,UNK147,UNK163,UNK179,UNK195,UNK211,UNK227,UNK243,UNK259,UNK275,UNK291,UNK307,UNK323,UNK339,UNK355,UNK371,,,,,,,,,,
+D,UNK4,,,UNK20,,UNK36,,UNK52,,UNK68,,UNK84,,UNK100,UNK116,UNK132,UNK148,UNK164,UNK180,UNK196,UNK212,UNK228,UNK244,UNK260,UNK276,UNK292,UNK308,UNK324,UNK340,UNK356,UNK372,,,,,,,,,,,
+E,UNK5,,,UNK21,,UNK37,,UNK53,,UNK69,,UNK85,,UNK101,UNK117,UNK133,UNK149,UNK165,UNK181,UNK197,UNK213,UNK229,UNK245,UNK261,UNK277,UNK293,UNK309,UNK325,UNK341,UNK357,UNK373,,,,,,,,,,,
+F,UNK6,,,UNK22,,UNK38,,UNK54,,UNK70,,UNK86,,UNK102,UNK118,UNK134,UNK150,UNK166,UNK182,UNK198,UNK214,UNK230,UNK246,UNK262,UNK278,UNK294,UNK310,UNK326,UNK342,UNK358,UNK374,,,,,,,,,,,
+G,UNK7,,,UNK23,,UNK39,,UNK55,,UNK71,,UNK87,,UNK103,UNK119,UNK135,UNK151,UNK167,UNK183,UNK199,UNK215,UNK231,UNK247,UNK263,UNK279,UNK295,UNK311,UNK327,UNK343,UNK359,UNK375,,,,,,,,,,,
+H,UNK8,,,UNK24,,UNK40,,UNK56,,UNK72,,UNK88,,UNK104,UNK120,UNK136,UNK152,UNK168,UNK184,UNK200,UNK216,UNK232,UNK248,UNK264,UNK280,UNK296,UNK312,UNK328,UNK344,UNK360,UNK376,,,,,,,,,,,
+I,UNK9,,,UNK25,,UNK41,,UNK57,,UNK73,,UNK89,,UNK105,UNK121,UNK137,UNK153,UNK169,UNK185,UNK201,UNK217,UNK233,UNK249,UNK265,UNK281,UNK297,UNK313,UNK329,UNK345,UNK361,UNK377,,,,,,,,,,,
+J,UNK10,,UNK26,,UNK42,,UNK58,,UNK74,,UNK90,,UNK106,UNK122,UNK138,UNK154,UNK170,UNK186,UNK202,UNK218,UNK234,UNK250,UNK266,UNK282,UNK298,UNK314,UNK330,UNK346,UNK362,UNK378,,,,,,,,,,,,
+K,UNK11,,UNK27,,UNK43,,UNK59,,UNK75,,UNK91,,UNK107,UNK123,UNK139,UNK155,UNK171,UNK187,UNK203,UNK219,UNK235,UNK251,UNK267,UNK283,UNK299,UNK315,UNK331,UNK347,UNK363,UNK379,,,,,,,,,,,,
+L,UNK12,,UNK28,,UNK44,,UNK60,,UNK76,,UNK92,,UNK108,UNK124,UNK140,UNK156,UNK172,UNK188,UNK204,UNK220,UNK236,UNK252,UNK268,UNK284,UNK300,UNK316,UNK332,UNK348,UNK364,UNK380,,,,,,,,,,,,
+M,UNK13,,UNK29,,UNK45,,UNK61,,UNK77,,UNK93,,UNK109,UNK125,UNK141,UNK157,UNK173,UNK189,UNK205,UNK221,UNK237,UNK253,UNK269,UNK285,UNK301,UNK317,UNK333,UNK349,UNK365,UNK381,,,,,,,,,,,,
+N,UNK14,,UNK30,,UNK46,,UNK62,,UNK78,,UNK94,,UNK110,UNK126,UNK142,UNK158,UNK174,UNK190,UNK206,UNK222,UNK238,UNK254,UNK270,UNK286,UNK302,UNK318,UNK334,UNK350,UNK366,UNK382,,,,,,,,,,,,
+O,UNK15,,UNK31,,UNK47,,UNK63,,UNK79,,UNK95,,UNK111,UNK127,UNK143,UNK159,UNK175,UNK191,UNK207,UNK223,UNK239,UNK255,UNK271,UNK287,UNK303,UNK319,UNK335,UNK351,UNK367,UNK383,,,,,,,,,,,,
+P,UNK16,,UNK32,,UNK48,,UNK64,,UNK80,,UNK96,,UNK112,UNK128,UNK144,UNK160,UNK176,UNK192,UNK208,UNK224,UNK240,UNK256,UNK272,UNK288,UNK304,UNK320,UNK336,UNK352,UNK368,UNK384,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+UNK,-,Unknown,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Calculations,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+No,calculations.,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Auto,export,parameters,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Export,format,,,,Plate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Include,basic,assay,information,,,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Place,assay,information,at,,,,End,of,file,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Include,basic,plate,information,,,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Place,plate,information,at,,,,Beginning,of,plate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Include,protocol,information,,,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Protocol,info,level,,,,Large,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Include,error,and,warning,information,,,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Include,background,information,,,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Add,plate,number,to,the,file,name,,,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Each,plate,to,separate,file,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Field,separator,to,use,,,,System,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+File,name,format,,,,C,\Users\HTSF,User\Desktop\13.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Operations,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Plate,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Group,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Measurement,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Label,,,,Pingping,US,LUM,384,(cps)(1),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Labels,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Pingping,US,LUM,384,(cps),,,,7000023,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Measurement,height,,,,0,mm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Measurement,time,,,,0.1,s,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+CT,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aperture,,,,384,Plate,US,Luminescence,aperture,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Last,edited,,,,5/17/2023,12,23,27,PM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Last,edited,by,,,,EnVision,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Factory,preset,,,,No,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Aperture,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+384,Plate,US,Luminescence,aperture,,,,9,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Height,,,,4.2,mm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Diameter,,,,3.7,mm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Description,,,,Can,also,be,used,in,96,plate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Last,edited,,,,1/28/2020,2,54,35,PM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Last,edited,by,,,,Installation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Factory,preset,,,,Yes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Instrument,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Serial,number,,,,1040181,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Nickname,,,,EnVision,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Normalization,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Assay,notifications,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+WARNING,,Warning,while,loading,plate.,Stacker,out,of,plates.,Plate,1,Plate,Repeat,1,Well,P01,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Exported,with,EnVision,Workstation,version,1.14.3049.528,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
